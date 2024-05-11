@@ -4,7 +4,7 @@
 
 > One paragraph statement about the project.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./Screenshot_1.jpg)
 
 Additional description about the project and its features.
 
@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://antmortra.github.io/Proyecto_FreeCodeCamp_Survey_form/[[](https://antmortra.github.io/Proyecto_FreeCodeCamp_Survey_form/)](https://antmortra.github.io/Proyecto_FreeCodeCamp_Survey_form/))
 
 
 ## Getting Started
