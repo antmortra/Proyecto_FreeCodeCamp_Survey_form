@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://antmortra.github.io/Proyecto_FreeCodeCamp_Survey_form/[[](https://antmortra.github.io/Proyecto_FreeCodeCamp_Survey_form/)](https://antmortra.github.io/Proyecto_FreeCodeCamp_Survey_form/))
+[Live Demo Link](https://antmortra.github.io/Proyecto_FreeCodeCamp_Survey_form/)
 
 
 ## Getting Started
